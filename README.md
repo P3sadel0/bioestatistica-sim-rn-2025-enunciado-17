@@ -27,4 +27,4 @@ As matrículas foram removidas desta cópia pública. O arquivo conserva os nome
 
 ## Licença e DOI
 
-Nenhuma licença de reutilização foi escolhida. A visibilidade pública no GitHub, por si só, não concede licença para reutilizar o código. O DOI do Zenodo ainda não foi emitido; será acrescentado à citação depois que os autores definirem a licença e a release for arquivada.
+O código está licenciado sob a [MIT License](LICENSE), conforme autorização dos autores. O DOI será gerado pelo Zenodo quando a primeira release for arquivada e então será acrescentado à citação desta versão.

@@ -8,6 +8,7 @@ authors:
   - family-names: "de Jesus Filho"
     given-names: "Marcelo"
 version: "1.0.0"
+license: "MIT"
 url: "https://github.com/P3sadel0/bioestatistica-sim-rn-2025-enunciado-17"
 abstract: "Script R para baixar, tratar e descrever dados preliminares do SIM-DO para residentes no Rio Grande do Norte em 2025, no recorte de mulheres em idade fértil."
 keywords:
