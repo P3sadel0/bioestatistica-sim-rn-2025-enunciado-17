@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this work, cite this repository; use a version-specific DOI after one is registered."
+message: "For the archived v1.0.0 snapshot, cite DOI 10.5281/zenodo.23197626."
 type: software
 title: "Parte 1 — Os dados: mortalidade de mulheres em idade fértil no Rio Grande do Norte (SIM, 2025; Enunciado 17)"
 authors:
@@ -9,6 +9,7 @@ authors:
     given-names: "Marcelo"
 version: "1.0.0"
 license: "MIT"
+doi: "10.5281/zenodo.23197626"
 url: "https://github.com/P3sadel0/bioestatistica-sim-rn-2025-enunciado-17"
 abstract: "Script R para baixar, tratar e descrever dados preliminares do SIM-DO para residentes no Rio Grande do Norte em 2025, no recorte de mulheres em idade fértil."
 keywords:

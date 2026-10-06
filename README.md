@@ -27,4 +27,4 @@ As matrículas foram removidas desta cópia pública. O arquivo conserva os nome
 
 ## Licença e DOI
 
-O código está licenciado sob a [MIT License](LICENSE), conforme autorização dos autores. O DOI será gerado pelo Zenodo quando a primeira release for arquivada e então será acrescentado à citação desta versão.
+O código está licenciado sob a [MIT License](LICENSE), conforme autorização dos autores. A versão arquivada `v1.0.0` tem o [DOI específico 10.5281/zenodo.23197626](https://doi.org/10.5281/zenodo.23197626). O [DOI de conceito 10.5281/zenodo.23197625](https://doi.org/10.5281/zenodo.23197625) aponta para a versão mais recente do repositório; para citar exatamente esta versão, use o DOI específico.
