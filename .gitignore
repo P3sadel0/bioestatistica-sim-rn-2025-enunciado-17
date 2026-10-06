@@ -1,0 +1,6 @@
+*.dbc
+*.dbf
+*.csv
+*.rds
+.RData
+.Rhistory
